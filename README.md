@@ -5,6 +5,10 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 
 ---
 
+[image](Jaune Monochrome Photo LinkedIn Bannière.png)
+
+---
+
 ## 🚀 À propos de moi
 
 - 🧑‍💻 Développeur passionné par les architectures complexes & les solutions concrètes  
