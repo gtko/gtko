@@ -29,7 +29,7 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 - **Langages** : PHP, JS/TS, Go, SQL  
 - **Frameworks** : Laravel, Astro, Next.js, un peu de tout selon l’humeur  
 - **Infra** : AWS, Cloudflare, Hetzner, Docker, CI/CD  
-- **Outils** : GitHub, PostHog, Stripe, Payrails, plein de bidouilles maison  
+- **Outils** : GitHub, PostHog, Stripe, plein de bidouilles maison  
 
 ---
 
