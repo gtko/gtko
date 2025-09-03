@@ -11,7 +11,7 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 - 🔧 J’adore résoudre les problèmes que personne ne veut toucher  
 - 🎧 Focus mode : musique à fond + Coca/Dr Pepper (Red Bull si la prod brûle 🔥)  
 - 📚 Toujours en train d’apprendre : IA, SaaS, archi, mais aussi dinosaures et mythologie 😉  
-- 👨‍👩‍👧‍👦 Papa de Théo & Emma  
+- 👨‍👩‍👧‍👦 Papa de 2 enfants
 
 ---
 
