@@ -20,7 +20,6 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 - Calme même quand *tout part en fumée*  
 - Mon Eureka moment arrive souvent… sous la douche 🚿  
 - Zéro small talk météo 🌦️ → 100% sens et efficacité  
-- Un client m’a invité en Israël, je pensais qu’il était à côté… j’ai proposé de venir en train 🤷‍♂️  
 
 ---
 
