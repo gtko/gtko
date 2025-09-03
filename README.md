@@ -39,7 +39,7 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 ---
 
 📫 Tu veux échanger ?  
-👉 [LinkedIn](https://www.linkedin.com/in/gregoireohanessian) • [Dotworld](https://www.dotworld.ch)
+👉 [LinkedIn](https://www.linkedin.com/in/gr%C3%A9goire-o-73730986/)
 
 
 <!--
