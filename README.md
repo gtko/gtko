@@ -5,7 +5,7 @@ Depuis, je teste, je casse et je reconstruis — toujours avec la même envie : 
 
 ---
 
-[image](Jaune Monochrome Photo LinkedIn Bannière.png)
+<img src="https://github.com/gtko/gtko/blob/master/Jaune%20Monochrome%20Photo%20LinkedIn%20Bannie%CC%80re.png?raw=true"/>
 
 ---
 
